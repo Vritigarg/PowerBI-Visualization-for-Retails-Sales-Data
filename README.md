@@ -1,5 +1,5 @@
 # Data Analyst Project using Python+SQL+PowerBI for-Retails-Sales-Data
-#This project focuses on building an ETL (Extract, Transform, Load) pipeline that extracts retail sales data from a Kaggle API, transforms it using Pandas, and loads it into SQL Server. The project also involves querying the database to explore insights into retail sales data. Additionally, Power BI is used to visualize the extracted data by connecting to the SQL Server database. Query parameters in Power BI allow filtering and interaction with the stored data.
+This project focuses on building an ETL (Extract, Transform, Load) pipeline that extracts retail sales data from a Kaggle API, transforms it using Pandas, and loads it into SQL Server. The project also involves querying the database to explore insights into retail sales data. Additionally, Power BI is used to visualize the extracted data by connecting to the SQL Server database. Query parameters in Power BI allow filtering and interaction with the stored data.
 # This is the Workflow of the Project
 ![Image](https://github.com/user-attachments/assets/4a4155f3-dc33-4ed4-85f9-97e8b6f6f0df)
 
